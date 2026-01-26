@@ -1,3 +1,5 @@
+STATUS: FINAL
+
 CICULLIS   → CI-time irreversible decision gate
 MK10-PRO   → Produces provable master truth (MTB)
 VERIFRAX   → Verifies and certifies evidence bundles
