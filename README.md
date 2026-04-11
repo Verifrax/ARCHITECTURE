@@ -2,6 +2,11 @@
 
 Topology and dependency authority map for the governed Verifrax system.
 
+## Terminal planes
+
+- **[ANAGNORIUM](https://github.com/Verifrax/ANAGNORIUM)** — terminal recognition
+- **[REGRESSORIUM](https://github.com/Verifrax/REGRESSORIUM)** — terminal recourse
+
 ## Status
 
 * Layer: Governance / topology reference
@@ -249,3 +254,11 @@ If a change would make a reader misidentify who owns authority, execution, verif
 ## License
 
 Apache License Version 2.0. See `LICENSE`.
+
+## Adjacent sovereign surfaces
+
+This repository is part of the Verifrax sovereign stack and remains bounded relative to:
+
+- **[ANAGNORIUM](https://github.com/Verifrax/ANAGNORIUM)** for terminal recognition
+- **[REGRESSORIUM](https://github.com/Verifrax/REGRESSORIUM)** for terminal recourse
+
