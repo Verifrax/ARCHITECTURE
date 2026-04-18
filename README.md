@@ -41,7 +41,7 @@ It does not operate intake.
 - not proof publication; that belongs to proof
 - not intake; that belongs to apply
 
-## Adjacent sovereign surfaces
+## Adjacent chamber surfaces
 
 - `SYNTAGMARIUM` defines law
 - `ORBISTIUM` defines canonical state
@@ -55,6 +55,39 @@ It does not operate intake.
 
 ARCHITECTURE explains how these surfaces fit together.
 It does not replace any of them.
+
+## Chamber stack vs implementation strata
+
+Read these as two different public classes:
+
+### Chambers
+
+- `SYNTAGMARIUM` — law
+- `ORBISTIUM` — state
+- `CONSONORIUM` — reconciliation
+- `TACHYRIUM` — cognition
+- `AUCTORISEAL` — authority
+- `CORPIFORM` — execution
+- `VERIFRAX` — verification
+- `ANAGNORIUM` — terminal recognition
+- `REGRESSORIUM` — terminal recourse
+
+### Implementation, host, and support strata
+
+- `VERIFRAX-WWW` — public root-host surface
+- `VERIFRAX-API` — API host implementation surface
+- `VERIFRAX-STATUS` — status host implementation surface
+- `VERIFRAX-SURFACE` — shared public-surface system
+- `VERIFRAX-SPEC` — derived specification publication
+- `VERIFRAX-DOCS` — explanatory documentation
+- `VERIFRAX-PROFILES` — deterministic profile-constraint surface
+- `VERIFRAX-verify` — public verification repository and UI boundary
+- `proof` — public proof publication surface
+- `SIGILLARIUM` — archive/reference surface
+- `apply` — intake surface
+
+These implementation, host, and support repositories are not parallel sovereignty.
+They must not be read as law, state, reconciliation, cognition, authority, execution, verification, terminal recognition, or terminal recourse merely because they are public-facing or operationally important.
 
 ## Public surface
 
