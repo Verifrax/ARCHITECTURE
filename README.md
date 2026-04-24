@@ -120,3 +120,7 @@ ARCHITECTURE is not proof publication.
 ARCHITECTURE is not intake.
 
 A cold reader should understand this repository as structural reference only.
+
+## License
+
+This repository is licensed under the Apache License 2.0. See `LICENSE`.
